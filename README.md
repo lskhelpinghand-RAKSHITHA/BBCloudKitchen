@@ -1,4 +1,4 @@
-# BB Cloud Kitchen
+# BBCloudKitchen
 
 A responsive storefront for BB Cloud Kitchen, a goat bone soup specialist in
 Mancherial, Telangana.
